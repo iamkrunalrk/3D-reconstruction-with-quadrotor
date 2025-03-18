@@ -1,4 +1,4 @@
-# 3D Reconstruction with Quadrotor and PCL
+# Multi-Modal Sensor Fusion for Quadrotor Terrain Mapping
 
 This project focuses on simulating a quadrotor flying over a terrain, equipped with a GPS and Depth Sensor, to collect 3D point cloud data. The collected data is then processed to create an accurate 3D representation of the terrain through surface reconstruction techniques, implemented using the **Point Cloud Library (PCL)**.
 
